@@ -3,7 +3,7 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://s.shopee.co.id/7Ktyzdm6TV", "_blank")
+    window.open("https://s.shopee.co.id/10wZ6V5qde", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/7Ktyzdm6TV", "_blank");
+    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
 
 
